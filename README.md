@@ -6,35 +6,22 @@
 
 
 <h3 align="center">Lenguajes de Programación:</h3>
+
 <p align="center">
-  <div style="display: inline-block; margin: 10px; text-align: center; padding: 20px; border: 2px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 120px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-    </a>
-    <p>JavaScript</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; text-align: center; padding: 20px; border: 2px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 120px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-    </a>
-    <p>PHP</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; text-align: center; padding: 20px; border: 2px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 120px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-    </a>
-    <p>Java</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; text-align: center; padding: 20px; border: 2px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 120px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-    <p>Python</p>
-  </div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 0 18px;"/>
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 0 18px;"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 0 18px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 0 18px;"/>
+  </a>
 </p>
+
 
 <h3 align="center">FrontEnd</h3>
 <p align="center">
