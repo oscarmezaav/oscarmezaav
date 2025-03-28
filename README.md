@@ -1,22 +1,39 @@
 <h1 align="center">¡Hola! 👋 Soy Oscar Meza</h1>
 <h3 align="center">Desarrollador FrontEnd</h3>
-<p align="center">Puebla, México</p>
+
+<h3 align="center">Sobre mí</h3>
+<p align="center">Soy un apasionado desarrollador FrontEnd con experiencia en HTML, CSS, JavaScript, y frameworks como Vue.js, React y Angular. Me gusta crear experiencias de usuario interactivas y eficientes, siempre enfocado en la calidad del código y la accesibilidad.</p>
+
 
 <h3 align="center">Lenguajes de Programación:</h3>
-
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 0 18px;"/>
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 0 18px;"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 0 18px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 0 18px;"/>
-  </a>
+  <div style="display: inline-block; margin: 10px; text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 100px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+    </a>
+    <p>JavaScript</p>
+  </div>
+  
+  <div style="display: inline-block; margin: 10px; text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 100px;">
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+    </a>
+    <p>PHP</p>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 100px;">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+    </a>
+    <p>Java</p>
+  </div>
+  
+  <div style="display: inline-block; margin: 10px; text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; width: 100px;">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    </a>
+    <p>Python</p>
+  </div>
 </p>
 
 
