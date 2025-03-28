@@ -8,6 +8,12 @@
 <h3 align="center">Lenguajes de Programación:</h3>
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 0 18px;"/>
   </a> 
