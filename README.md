@@ -52,7 +52,7 @@
 <h3 align="center">Contáctame:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-alejandro-meza-avendaño-b0b771118" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar alejandro meza avendaño" height="40" width="40" style="margin: 0 18px;"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=3" />
   </a>
 </p>
