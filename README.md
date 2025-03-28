@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Oscar Meza</h1>
-<h3 align="center">Desarrollador FrontEnd</h3>
+<h3 align="center">Ingeniero en Desarrollo de Software</h3>
 
 <h3 align="center">Sobre mí</h3>
-<p align="center">Soy un apasionado desarrollador FrontEnd con experiencia en HTML, CSS, JavaScript, y frameworks como Vue.js, React y Angular. Me gusta crear experiencias de usuario interactivas y eficientes, siempre enfocado en la calidad del código y la accesibilidad.</p>
+<p align="center">Soy un apasionado desarrollador con experiencia en HTML, CSS, JavaScript, PHP, entre otros. Me gusta crear experiencias de usuario interactivas y eficientes, siempre enfocado en la calidad del código y la accesibilidad.</p>
 
 
 <h3 align="center">Lenguajes de Programación:</h3>
