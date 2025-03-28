@@ -36,26 +36,17 @@
 <h3 align="center">Diseño:</h3>
 
 <p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin: 0 18px;"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" style="margin: 0 18px;"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="margin: 0 18px;"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50" style="margin: 0 18px;"/> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,xd&perline=3" />
   </a>
 </p>
 
 <h3 align="center">Control de Versiones:</h3>
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 0 18px;"/> 
-  </a> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github&perline=3" />
+  </a>
 </p>
 
 <h3 align="center">Contáctame:</h3>
