@@ -32,7 +32,7 @@
 
 <h3 align="center">Contáctame:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-alejandro-meza-avenda%C3%B1o-b0b771118/">
+  <a href="https://www.linkedin.com/in/oscar-alejandro-meza-avenda%C3%B1o-b0b771118/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=3" />
   </a>
 </p>
