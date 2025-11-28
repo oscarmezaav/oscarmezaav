@@ -7,17 +7,17 @@
 
 <h3 align="center">Lenguajes de Programación:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,php,java,python,nodejs&perline=3" />
+    <img src="https://skillicons.dev/icons?i=javascript,php&perline=3" />
 </p>
 
 <h3 align="center">FrontEnd</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,tailwind,vue,react,angular&perline=4" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,tailwind,vue,angular&perline=4" />
 </p>
 
 <h3 align="center">Bases de Datos:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mysql&perline=4" />
 </p>
 
 <h3 align="center">Diseño:</h3>
